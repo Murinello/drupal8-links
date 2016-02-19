@@ -17,7 +17,6 @@
     + [Using Drupal 8's new route controllers](http://previousnext.com.au/blog/using-drupal-8s-new-route-controllers)
     + [Drupal 8 Module Development, Part 1: Getting Started](http://getlevelten.com/blog/ian-whitcomb/drupal-8-module-development-part-1-getting-started)
     + [Drupal 8 Module Development, Part 2: Forms](http://getlevelten.com/blog/ian-whitcomb/drupal-8-module-development-part-2-forms)
-    + [Drupal 8 Module Development, Part 3: Plugins](http://getlevelten.com/blog/ian-whitcomb/drupal-8-module-development-part-3-plugins)
     + [Step-by-step: Converting modules from Drupal 7 to Drupal 8](http://webchick.net/upgrade-modules-d8)
     + [A practical example for converting a Drupal 7 module to work with Drupal 8](http://www.pixelite.co.nz/article/practical-example-converting-drupal-7-module-work-drupal-8)
     + [Theming in Drupal 8 - Conversion of themes to Twig](http://www.undpaul.de/blog/2013/07/04/theming-drupal-8-conversion-themes-twig)
